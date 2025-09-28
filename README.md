@@ -1,4 +1,4 @@
-# Recent Person Re-Identification Papers on arXiv
+# Recent Person Re-Identification and Gait Recognition Papers on arXiv
 
 To facilitate graduate students and researchers in quickly locating papers based on keywords, I consolidated the abstracts based on this topic from arXiv and created a webpage.
 
